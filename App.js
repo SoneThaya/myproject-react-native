@@ -41,7 +41,7 @@ export default function App() {
     // <Sandbox />
     <TouchableWithoutFeedback
       onPress={() => {
-        Keyboard.dismiss();
+        //Keyboard.dismiss();
         console.log("dismissed");
       }}
     >
